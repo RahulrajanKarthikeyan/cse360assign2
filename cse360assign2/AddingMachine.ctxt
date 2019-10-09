@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AddingMachine
+comment1.params=
+comment1.target=AddingMachine()
+comment1.text=\r\n\ \r\n\ AddingMachine\ ()\ -\ not\ needed\ -\ included\ for\ clarity\r\n\ getTotal\ ()\ -\ returning\ total\ \r\n\ add\ (int\ value)\ -\ here\ we\ are\ adding\ value\ to\ total\ and\ also\ adding\ value\ to\ string\ \r\n\ subtract\ (int\ value)\ -\ here\ we\ are\ subtracting\ value\ to\ total\ and\ also\ adding\ value\ to\ string\r\n\ toString\ ()\ -\ to\ return\ string\ with\ all\ symbols\ and\ values\ addded\ or\ subtracted\ to\ total\r\n\ clear()\ \ -\ to\ clear\ the\ string\ \r\n\ \r\n
+comment2.params=
+comment2.target=int\ getTotal()
+comment3.params=value
+comment3.target=void\ add(int)
+comment4.params=value
+comment4.target=void\ subtract(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=void\ clear()
+numComments=7
